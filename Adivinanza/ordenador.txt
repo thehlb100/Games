@@ -1,0 +1,5 @@
+
+pantalla
+teclado
+raton
+altavoces
